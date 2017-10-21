@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/SoloLearn-2/SoloLearn-2/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/SoloLearn-2/SoloLearn-2/bin/Debug/SoloLearn_2.exe.mdb
+/home/ojikdev/RiderProjects/SoloLearn-2/SoloLearn-2/bin/Debug/SoloLearn_2.exe
+/home/ojikdev/RiderProjects/SoloLearn-2/SoloLearn-2/obj/Debug/SoloLearn_2.exe
+/home/ojikdev/RiderProjects/SoloLearn-2/SoloLearn-2/obj/Debug/SoloLearn_2.exe.mdb
