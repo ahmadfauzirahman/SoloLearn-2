@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/SoloLearn-2/Inheritance/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/SoloLearn-2/Inheritance/bin/Debug/Inheritance.exe.mdb
+/home/ojikdev/RiderProjects/SoloLearn-2/Inheritance/bin/Debug/Inheritance.exe
+/home/ojikdev/RiderProjects/SoloLearn-2/Inheritance/obj/Debug/Inheritance.exe
+/home/ojikdev/RiderProjects/SoloLearn-2/Inheritance/obj/Debug/Inheritance.exe.mdb

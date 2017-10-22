@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/SoloLearn-2/ProtectedMembers/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/SoloLearn-2/ProtectedMembers/bin/Debug/ProtectedMembers.exe.mdb
+/home/ojikdev/RiderProjects/SoloLearn-2/ProtectedMembers/bin/Debug/ProtectedMembers.exe
+/home/ojikdev/RiderProjects/SoloLearn-2/ProtectedMembers/obj/Debug/ProtectedMembers.exe
+/home/ojikdev/RiderProjects/SoloLearn-2/ProtectedMembers/obj/Debug/ProtectedMembers.exe.mdb

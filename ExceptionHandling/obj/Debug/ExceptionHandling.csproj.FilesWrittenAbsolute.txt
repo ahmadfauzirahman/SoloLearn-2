@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/SoloLearn-2/ExceptionHandling/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/SoloLearn-2/ExceptionHandling/bin/Debug/ExceptionHandling.exe.mdb
+/home/ojikdev/RiderProjects/SoloLearn-2/ExceptionHandling/bin/Debug/ExceptionHandling.exe
+/home/ojikdev/RiderProjects/SoloLearn-2/ExceptionHandling/obj/Debug/ExceptionHandling.exe
+/home/ojikdev/RiderProjects/SoloLearn-2/ExceptionHandling/obj/Debug/ExceptionHandling.exe.mdb

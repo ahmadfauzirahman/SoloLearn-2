@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/SoloLearn-2/sisaBagi/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/SoloLearn-2/sisaBagi/bin/Debug/sisaBagi.exe.mdb
+/home/ojikdev/RiderProjects/SoloLearn-2/sisaBagi/bin/Debug/sisaBagi.exe
+/home/ojikdev/RiderProjects/SoloLearn-2/sisaBagi/obj/Debug/sisaBagi.exe
+/home/ojikdev/RiderProjects/SoloLearn-2/sisaBagi/obj/Debug/sisaBagi.exe.mdb

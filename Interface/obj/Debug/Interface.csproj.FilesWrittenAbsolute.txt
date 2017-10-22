@@ -1,0 +1,5 @@
+/home/ojikdev/RiderProjects/SoloLearn-2/Interface/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ojikdev/RiderProjects/SoloLearn-2/Interface/bin/Debug/Interface.exe.mdb
+/home/ojikdev/RiderProjects/SoloLearn-2/Interface/bin/Debug/Interface.exe
+/home/ojikdev/RiderProjects/SoloLearn-2/Interface/obj/Debug/Interface.exe
+/home/ojikdev/RiderProjects/SoloLearn-2/Interface/obj/Debug/Interface.exe.mdb
