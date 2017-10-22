@@ -11,6 +11,12 @@ namespace solo_learn_6
             p1.name = "Gosho";
             Console.Write(p1.name[2]);
             Console.Write(p1.country[4]);
+            Console.WriteLine();
+            
+            double Pi = 3.14159;
+            Console.WriteLine(Math.Round(Math.PI,1));
+            
+            
         }
         class Person
         {
