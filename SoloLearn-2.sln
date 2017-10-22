@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solo-learn-5", "solo-learn-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solo-learn-6", "solo-learn-6\solo-learn-6.csproj", "{DB032791-25D9-4F8E-B615-64DC3E7253DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solo-learn-7", "solo-learn-7\solo-learn-7.csproj", "{F4522A12-B00F-4861-B08D-8AFE7D70DE6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DB032791-25D9-4F8E-B615-64DC3E7253DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB032791-25D9-4F8E-B615-64DC3E7253DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB032791-25D9-4F8E-B615-64DC3E7253DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4522A12-B00F-4861-B08D-8AFE7D70DE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4522A12-B00F-4861-B08D-8AFE7D70DE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4522A12-B00F-4861-B08D-8AFE7D70DE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4522A12-B00F-4861-B08D-8AFE7D70DE6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,6 +15,51 @@
       </e>
       <e p="SoloLearn-2.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
+      <e p="solo-learn-3" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="solo-learn-3.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="solo-learn-4" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="solo-learn-4.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="solo-learn-5" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="solo-learn-5.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="solo-learn-6" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="solo-learn-6.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="solo-learn-7" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="solo-learn-7.csproj" t="IncludeRecursive" />
+      </e>
     </e>
   </component>
 </project>
